@@ -1,0 +1,24 @@
+ul{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 510px;
+    border: 1px solid #c3c3c3;
+    background-color: rgb(221, 174, 87);
+    justify-content: space-evenly;
+  border-radius: 25px;
+}
+hr{
+    width: 350px;
+}
+span{
+    font-weight: bold;
+}
+p{
+    display: inline-block;
+}
+img{
+    padding: 10px;
+    position: relative;
+    top: 20px;
+}
